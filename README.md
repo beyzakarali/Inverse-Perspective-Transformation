@@ -2,7 +2,7 @@
 
 ### Inverse perspective to a plane surface with texture mapping
 
-###Features
+### Features
 - Changing camera position
 - Changing the depth value
 - Texture selection (floor - background)
